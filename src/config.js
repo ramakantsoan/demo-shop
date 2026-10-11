@@ -1,6 +1,6 @@
 export const config = {
   appName: "Demo Shop",
   theme: "blue",
-  currency: "INR",
+  currency: "USD",
   pageSize: 10,
 };
